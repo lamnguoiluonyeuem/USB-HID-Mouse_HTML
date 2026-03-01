@@ -9,7 +9,7 @@
 - toC(x, y) — tọa độ thực → pixel canvas (uniform scale, căn giữa)
 - drawBackground() — xóa canvas + vẽ lưới
 - render(upTo) — vẽ trail + glow + mũi tên + marker Start/End
-- getColor(i) / getWidth(i) — lấy màu/độ dày theo mode hiện tại
+- getColor(i) / getWidth(i) — lấy màu/độ dày theo mode
 
 ## Màu sắc
 
